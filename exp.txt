@@ -4,3 +4,6 @@ this is the second version of the code git hello
 
 this is realted to treh shruhujana branch
 git 
+
+other branch that is followed
+git commit -a -m 
