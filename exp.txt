@@ -7,3 +7,6 @@ git
 
 other branch that is followed
 git commit -a -m 
+
+
+hello this for sub modele
